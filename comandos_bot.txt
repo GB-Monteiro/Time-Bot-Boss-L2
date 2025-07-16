@@ -1,0 +1,17 @@
+Invite Bot Discord: https://discord.com/oauth2/authorize?client_id=1360290050515931137&scope=bot&permissions=68608
+
+TOKEN = 'MTM2MDI5MDA1MDUxNTkzMTEzNw.GsnAYY.mJfiCi1rTUg5e8FARQ6E2V8FPYva8TjxykohpE'
+
+✅ Commands:
+
+    !boss died <boss> → Register the death of an Epic boss.
+
+    !bossstatus → Shows the current status of all bosses.
+
+    !cancelboss <boss (GMT-3)> → Cancels the registration of a boss.
+
+    !setboss <boss> <time> → Manually sets the time of the boss's death. (Queen Ant has to be written together for it to work. e.g: queenant)
+
+    !nextrespawn → Shows the next respawn among all bosses.
+
+    !listbosses → Lists the available bosses.
