@@ -1,2 +1,2 @@
-discord-py-no-voice==2.3.2
+git+https://github.com/Rapptz/discord.py.git@master#egg=discord.py
 flask
