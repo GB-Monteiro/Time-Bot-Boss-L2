@@ -3,6 +3,12 @@ services:
     name: bot-time-boss-l2
     env: python
     plan: free
-    autoDeploy: true
-    buildCommand: pip install -r requirements.txt
+    buildCommand: ""
     startCommand: python bossrespawn.py
+    buildFilter:
+      paths:
+        - runtime.txt
+        - requirements.txt
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
