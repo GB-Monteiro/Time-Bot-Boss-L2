@@ -111,7 +111,6 @@ async def on_message(message):
 
         await asyncio.sleep(max(0, segundos_ate_fim - segundos_ate_inicio))
 
-
     elif conteudo.startswith("!bossstatus"):
         resposta = "📋 Boss Status:\n"
         for boss in bosses:
