@@ -10,7 +10,6 @@ Ele envia alertas automáticos quando o boss entra na janela de respawn.
 - ✅ Comandos para registrar morte do boss (`!boss died <nome>`)
 - ⏰ Cálculo automático do tempo de respawn aleatório
 - 📢 Alerta em canal específico no Discord quando começa a janela de respawn
-- 🧹 Remoção automática após fim do respawn
 - 💾 Armazenamento persistente em `boss_data.json`
 - 🌐 Mantido vivo por Flask (`/` route) para hosting gratuito
 
