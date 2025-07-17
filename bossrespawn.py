@@ -111,11 +111,6 @@ async def on_message(message):
 
         await asyncio.sleep(max(0, segundos_ate_fim - segundos_ate_inicio))
 
-        if nome_boss in dados_boss:
-            dados_boss.pop(nome_boss)
-            salvar_dados(dados_boss)
-            if canal_alerta:
-                await canal_alerta.send(f"📤 {nome_boss.title()} has been removed from the status list (respawn window ended).")
 
     elif conteudo.startswith("!bossstatus"):
         resposta = "📋 Boss Status:\n"
