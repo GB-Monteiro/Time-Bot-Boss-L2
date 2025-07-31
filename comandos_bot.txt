@@ -1,6 +1,6 @@
 Invite Bot Discord: https://discord.com/oauth2/authorize?client_id=1360290050515931137&scope=bot&permissions=68608
 
-TOKEN = 'MTM2MDI5MDA1MDUxNTkzMTEzNw.GsnAYY.mJfiCi1rTUg5e8FARQ6E2V8FPYva8TjxykohpE'
+TOKEN = 'DISCORD_TOKEN'
 
 ✅ Commands:
 
