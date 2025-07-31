@@ -1,7 +1,3 @@
-Invite Bot Discord: https://discord.com/oauth2/authorize?client_id=1360290050515931137&scope=bot&permissions=68608
-
-TOKEN = 'DISCORD_TOKEN'
-
 ✅ Commands:
 
     !boss died <boss> → Register the death of an Epic boss.
